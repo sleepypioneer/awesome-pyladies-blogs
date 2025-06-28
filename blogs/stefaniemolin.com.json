@@ -1,0 +1,20 @@
+{
+  "title": "Stefanie Molin",
+  "type": "blog",
+  "url": "https://stefaniemolin.com/articles",
+  "photo_url": "https://stefaniemolin.com/assets/portrait.jpeg",
+  "rss_feed": "https://stefaniemolin.com/feeds/articles-rss.xml",
+  "language": "en",
+  "authors": [
+    {
+      "name": "Stefanie Molin",
+      "social_media": [{
+        "twitter": "StefanieMolin",
+        "github": "stefmolin",
+        "orcid": "0009-0001-3359-3346",
+        "linkedin": "stefanie-molin",
+        "website": "https://stefaniemolin.com"
+      }]
+    }
+  ]
+}
